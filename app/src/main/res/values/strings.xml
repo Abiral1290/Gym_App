@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Xampp</string>
+    <string name="title_activity_workout_page">Workout_page</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="activities">Activities</string>
+
+    <string name="extreme_severely_underweight">extreme_severely_underweight</string>
+    <string name="severely_underweight">severely_underweight</string>
+    <string name="underweight">underweight</string>
+    <string name="normal">normal</string>
+    <string name="overweight">overweight</string>
+    <string name="extreme_class_1">extreme_class_1</string>
+    <string name="extreme_class_2">extreme_class_2</string>
+    <string name="extreme_class_3">extreme_class_3</string>
+
+    <string name="weight">Weight</string>
+    <string name="height">Height</string>
+    <string name="bmicalculate">BMIcalculate</string>
+
+
+</resources>
